@@ -34,7 +34,7 @@ public class Peer {
                     compartir_archivo_torrent(indice, admi_Descargas_arreglo, teclado_ruta);
                     break;
                 case 2:
-                    compartir_archivo_torrent(indice, admi_Descargas_arreglo, teclado_ruta);
+                    decargar_compartir_archivo_torrent(indice, admi_Descargas_arreglo, teclado_ruta);
                     break;
                 case 3:
                     agregar_torrent_tracker(teclado_ruta);
